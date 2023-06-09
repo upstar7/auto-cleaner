@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+
+# IDE/Editor
+.idea/
+.vscode/
+
+# Build and Dependency Files
+build/
+.DS_Store
+package-lock.json
+yarn.lock
+
+# Logs and Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
